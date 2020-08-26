@@ -1,6 +1,9 @@
 # Unit 18 PWA Homework: Online/Offline Budget Trackers
 ## Melissa Flores
 
+### Working application
+https://evening-lowlands-47091.herokuapp.com/
+
 Added functionality to the existing Budget Tracker application to allow for offline access and functionality.
 
 The user is be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they will populate the total when brought back online.
@@ -28,7 +31,4 @@ SO THAT my account balance is accurate when I am traveling
 ## Business Context
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
-
-### Working application
-https://evening-lowlands-47091.herokuapp.com/
 
