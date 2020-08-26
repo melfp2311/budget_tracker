@@ -24,12 +24,12 @@ mongoose.connect("mongodb://localhost/budget", {
   useFindAndModify: false
 });
 
-mongoose.connect(
-  process.env.MONGODB_URI || "mongodb://User27:Password27@ds263928.mlab.com:63928/heroku_l4mqwxq7",
-  {
-    useMongoClient: true
-  }
-);
+// mongoose.connect(
+//   process.env.MONGODB_URI || "mongodb://User27:Password27@ds263928.mlab.com:63928/heroku_l4mqwxq7",
+//   {
+//     useMongoClient: true
+//   }
+// );
 
 //Routes
 app.use(require("./routes/api.js"));
