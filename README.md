@@ -29,6 +29,6 @@ SO THAT my account balance is accurate when I am traveling
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
-# Working application
+### Working application
 https://evening-lowlands-47091.herokuapp.com/
 
